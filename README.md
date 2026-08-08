@@ -9,6 +9,6 @@ README.md : Project documentation
 Usage
 Clone the repository and open the notebook in Jupyter:
 
-git clone https://github.com/avutujashvanthreddy-hash/SU_2026_AIML.git
+git clone https://github.com/avutujashvanthreddy-hash/SAHE_2026_Workshop.git
 cd SU_2026_AIML
 jupyter notebook WORKSHOP.ipynb
